@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_red"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_red" />
+
+    <item
+        android:id="@+id/navigation_green"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_green" />
+
+    <item
+        android:id="@+id/navigation_blue"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_blue" />
+
+</menu>
